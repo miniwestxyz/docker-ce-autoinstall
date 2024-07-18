@@ -1,6 +1,6 @@
 # Docker CE Auto-Install Script
 
-Dieses Repository enthält ein Skript zur automatischen Installation von Docker CE auf einem Linux-Betriebssystem. Das Skript erkennt die Sprache des Betriebssystems (Deutsch oder Englisch) und zeigt entsprechende Nachrichten während der Installation an.
+Dieses Repository enthält ein Skript zur automatischen Installation von Docker CE auf einem Linux-Betriebssystem. Das Skript erkennt die Sprache des Betriebssystems (Deutsch oder Englisch).
 
 ## Inhaltsverzeichnis
 
@@ -12,7 +12,6 @@ Dieses Repository enthält ein Skript zur automatischen Installation von Docker 
 ## Features
 
 - Automatische Erkennung der Systemsprache (Deutsch oder Englisch).
-- Stilvolle CLI-Ausgaben für ein angenehmes Benutzererlebnis.
 - Einfache und schnelle Installation von Docker CE.
 
 ## Voraussetzungen
