@@ -8,9 +8,7 @@ Dieses Repository enthält ein Skript zur automatischen Installation von Docker 
 - [Voraussetzungen](#voraussetzungen)
 - [Installation](#installation)
 - [Benutzung](#benutzung)
-- [Beitragen](#beitragen)
-- [Lizenz](#lizenz)
-
+  
 ## Features
 
 - Automatische Erkennung der Systemsprache (Deutsch oder Englisch).
