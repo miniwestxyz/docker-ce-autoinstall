@@ -39,8 +39,7 @@ message_box "$MSG_TITLE"
 message_box "$MSG_PROFESSION"
 
 # Docker CE installieren
-curl -fsSL https://get.docker.com -o get-docker.sh
-sudo sh get-docker.sh
+curl -sSL https://get.docker.com/ | CHANNEL=stable bash
 
 # Abschlussnachricht anzeigen
 message_box "$MSG_COMPLETE"
